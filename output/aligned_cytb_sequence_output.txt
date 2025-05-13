@@ -1,0 +1,30 @@
+UPGMA:
+  Time: 0.000000 s
+  Memory: 5.62 KB
+  RF Distance: 0
+  KC Distance: 0
+
+Neighbor Joining:
+  Time: 0.001005 s
+  Memory: 3.30 KB
+  RF Distance: 0.01657999999999995
+  KC Distance: 1
+
+Maximum Parsimony:
+  Time: 9.705741 s
+  Memory: 181.34 KB
+  RF Distance: 0.0
+  KC Distance: 0
+
+Maximum Likelihood (simulated):
+  Time: 0.001000 s
+  Memory: 2.50 KB
+  RF Distance: 0.01657999999999995
+  KC Distance: 1
+
+Bayesian Inference (simulated):
+  Time: 1.639429 s
+  Memory: 3.13 KB
+  RF Distance: 0.0
+  KC Distance: 0
+
